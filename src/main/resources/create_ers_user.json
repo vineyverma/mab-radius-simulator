@@ -1,0 +1,16 @@
+{
+  "InternalUser": {
+    "name": "mud_user15",
+    "enabled": true,
+    "password": "Lab123",
+    "changePassword": false,
+    "identityGroups": "a1740510-8c01-11e6-996c-525400b48521",
+    "expiryDateEnabled": false,
+    "enablePassword": "",
+    "customAttributes": {},
+    "passwordIDStore": "Internal Users"
+  }
+}
+
+## Note that IdentityGroups need to be fetched. You can remove this line too and that means no identity
+group association
